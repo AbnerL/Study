@@ -1,16 +1,3 @@
-/* ******************************************************************
-*
-*    DESCRIPTION:Copyright(c) 2020-2030 Xiamen Yealink Network Technology Co,.Ltd
-*
-*    AUTHOR: QiuZhiHao. The venus project authors. All Rights Reserved.
-*
-*    HISTORY:
-*
-*    DATE:2024-10-11
-*
-*
-****************************************************************** */
-#include "SSL_GMM.h"
 
 static void Complex_Distance (DSP_Float in1_Re, DSP_Float in1_Im, DSP_Float in2_Re, DSP_Float in2_Im, DSP_Float *out)
 {
